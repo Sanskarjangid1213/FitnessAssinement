@@ -12,7 +12,7 @@ export function PromotionalCard() {
         "text-white"
       )}
     >
-      <div className="relative z-20 p-6 pr-32">
+      <div className="relative p-6 pr-32">
         <h3 className="text-lg font-semibold mb-2">
           50% off on <span className="font-bold">Premium Membership</span>
         </h3>
@@ -28,7 +28,7 @@ export function PromotionalCard() {
       <div
         className="
           absolute
-          top-24 right-[-70px]
+          top-28 right-[-80px]
           w-[234px] h-[234px]
           rounded-full
           bg-[hsla(248,57%,64%,0.4)]
@@ -40,7 +40,7 @@ export function PromotionalCard() {
       <div
         className="
           absolute
-          top-44 right-0
+          top-48 right-[-15px]
           w-[77px] h-[77px]
           rounded-full
           bg-[hsla(248,57%,64%,0.4)]
