@@ -33,7 +33,7 @@ export function PromotionalCard() {
           rounded-full
           bg-[hsla(248,57%,64%,0.4)]
           rotate-[64.49deg]
-          z-10
+        
         "
       />
 
@@ -45,12 +45,12 @@ export function PromotionalCard() {
           rounded-full
           bg-[hsla(248,57%,64%,0.4)]
           rotate-[64.49deg]
-          z-10
+       
         "
       />
 
       {/* People image */}
-      <div className="absolute bottom-0 right-0 w-[150px] h-[180px] z-20 flex items-end">
+      <div className="absolute bottom-0 right-0 w-[150px] h-[180px]  flex items-end">
         <img
           src={promoGroup}
           alt="Premium membership promotion"

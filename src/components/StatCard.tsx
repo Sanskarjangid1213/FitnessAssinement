@@ -135,7 +135,7 @@ export function StatCard({
     <Card
       className={cn(
         "relative overflow-hidden border-0 shadow-md",
-        "rounded-[6px] w-72 h-[168px]",
+        "rounded-[6px] w-64 h-[168px]",
         "px-6 py-5",
         v.card,
         v.text
